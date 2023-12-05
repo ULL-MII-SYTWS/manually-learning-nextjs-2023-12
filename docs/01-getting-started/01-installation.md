@@ -178,3 +178,21 @@ Create a `public` folder to store static assets such as images, fonts, etc. File
 
 The `next-env.d.ts` file is a TypeScript declaration file is typically generated automatically when you create a new Next.js project using the create-next-app command.
 It is git ignored. It ensures that the TypeScript compiler recognizes and provides type checking for the Next.js framework and its specific features, such as the `Image` component.
+
+## Running the app
+
+```bash
+
+➜  manually-learning-nextjs-2023-12 npm run dev
+
+> manual-my-app-2023-12-05-1@1.0.0 dev
+> next dev
+
+ ⚠ Port 3000 is in use, trying 3001 instead.
+   ▲ Next.js 14.0.3
+   - Local:        http://localhost:3001
+```
+
+Visit <http://localhost:3000> to view your application.
+
+Edit `app/page.tsx` and save it to see the updated result in your browser.
