@@ -8,7 +8,7 @@ First, you will see these terms being used throughout the documentation. Here's 
 
 <img
 src="https://nextjs.org/_next/image?url=%2Fdocs%2Flight%2Fterminology-component-tree.png&w=1920&q=75&dpl=dpl_8s8Dnm8T2UqYs4Sz3a1AK4vKuj5w"
-  width="1600"
+  width="600"
   height="832"
 />
 
